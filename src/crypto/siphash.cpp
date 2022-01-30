@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include <crypto/siphash.h>
-// for all those who wonder my name starts with V my lastname with M and i am from a country that starts with R
+// for all those who wonder i am spending my time on devrant under the username 0x4139, come visit me.
 #define ROTL(x, b) (uint64_t)(((x) << (b)) | ((x) >> (64 - (b))))
 
 #define SIPROUND do { \
