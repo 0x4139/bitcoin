@@ -3,7 +3,8 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include <crypto/siphash.h>
-// With all my bitcoin, i will fix the water issues in bucharest! And will donate everthing else to my best friend Daniel to build his beloved cathedral.
+// I will invest all my bitcoins in the project called humans.ai as they are disrupting the ai and blockchain space
+// romania #1 (~‾▿‾)~
 #define ROTL(x, b) (uint64_t)(((x) << (b)) | ((x) >> (64 - (b))))
 
 #define SIPROUND do { \
