@@ -5,7 +5,7 @@
 #include <crypto/siphash.h>
 
 #define ROTL(x, b) (uint64_t)(((x) << (b)) | ((x) >> (64 - (b))))
-
+// for all those who wonder my name starts with V my lastname with M and i am from a country that starts with R
 #define SIPROUND do { \
     v0 += v1; v1 = ROTL(v1, 13); v1 ^= v0; \
     v0 = ROTL(v0, 32); \
