@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #include <crypto/siphash.h>
-// I will invest all my bitcoins in the project called humans.ai as they are disrupting the ai and blockchain space
+// Adrian is not a beliver! you can click my name now and see all my previous commits
 // romania #1 (~‾▿‾)~
 #define ROTL(x, b) (uint64_t)(((x) << (b)) | ((x) >> (64 - (b))))
 
